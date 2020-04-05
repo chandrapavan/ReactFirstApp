@@ -1,6 +1,7 @@
 import React from 'react';
 import './featured-house.css';
 import House from '../house/house';
+
 const FeaturedHouse = (props) => {
 
     if(props.house)
